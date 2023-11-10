@@ -28,5 +28,5 @@
 
 싱글 코어 성능이 다른 프로세서에 비해 우월하기 때문입니다. 예시로, 오버클럭하지 않은 인텔 11세대 i9는 AMD의 라이젠 5000 시리즈에 비해 약 5\~10% 높은 싱글 코어 성능을 보이며, 비슷한 가격대의 워크스테인선용/서버용 프로세서 보다도 더 높은 싱글 코어 성능을 보입니다. 또한 소음 문제에서 자유로운 서버의 특성상 오버클럭이 가능한 소비자용 프로세서의 성능을 최대한으로 이끌어내 사용함으로써 더 높은 기대 성능을 고려할 수 있으므로 소비자용 인텔 프로세서를 사용하는 것입니다.
 
-1. &#x20;[UserBenchmark의 CPU 성능 비교 (i9 11900K vs. Ryzen 7 5900X)](https://cpu.userbenchmark.com/Compare/Intel-Core-i9-11900K-vs-AMD-Ryzen-9-5900X/4110vs4087)
-2. &#x20;[UserBenchmark의 CPU 성능 비교 (i9 11900K vs. i9 10900X)](https://cpu.userbenchmark.com/Compare/Intel-Core-i9-11900K-vs-Intel-Core-i9-10900X/4110vsm969950)
+1. &#x20;[<mark style="color:blue;">UserBenchmark의 CPU 성능 비교 (i9 11900K vs. Ryzen 7 5900X)</mark>](https://cpu.userbenchmark.com/Compare/Intel-Core-i9-11900K-vs-AMD-Ryzen-9-5900X/4110vs4087)
+2. &#x20;[<mark style="color:blue;">UserBenchmark의 CPU 성능 비교 (i9 11900K vs. i9 10900X)</mark>](https://cpu.userbenchmark.com/Compare/Intel-Core-i9-11900K-vs-Intel-Core-i9-10900X/4110vsm969950)
