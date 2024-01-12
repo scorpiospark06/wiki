@@ -6,7 +6,7 @@
 
 ### 신고 접수하기
 
-[<mark style="color:blue;">여기 (클릭)</mark>](https://docs.google.com/forms/d/e/1FAIpQLSeCrBic65knqLaEESnu92fksWCHdfLs51gxTFb7S3puxl1-Mw/viewform)에서 신고를 접수할 수 있습니다.
+[디스코드<mark style="color:blue;">(클릭)</mark>](https://discord.gg/38rbWNquaK)에서 신고를 접수할 수 있습니다.
 
 ### 자주 묻는 질문
 
