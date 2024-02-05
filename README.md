@@ -11,4 +11,4 @@ RE:Vanilla 위키에 오신 것을 환영합니다!\
 총관리자:<mark style="color:green;">**\_I7Z\_**</mark>\
 관리자:<mark style="color:orange;">**EchoMax,hydrogen\_H**</mark>\
 ​\
-[<mark style="color:blue;">도움말</mark>](docs-1/undefined/) [<mark style="color:blue;">이용 규칙</mark>](docs-1/rules.md) [<mark style="color:blue;">상점 규칙</mark> ](docs-1/undefined-1.md)[<mark style="color:blue;">게임 설정</mark>](docs-2/undefined.md)&#x20;[<mark style="color:blue;">기능</mark> ](docs-2/undefined-2/)[<mark style="color:blue;">수정사항</mark>](docs-2/undefined-1.md)[&#x20;<mark style="color:blue;">부정 이용 신고</mark>](docs-4/reportabuse.md)
+[<mark style="color:blue;">도움말</mark>](broken-reference) [<mark style="color:blue;">이용 규칙</mark>](docs-1/rules.md) [<mark style="color:blue;">상점 규칙</mark> ](broken-reference)[<mark style="color:blue;">게임 설정</mark>](docs-2/undefined.md)&#x20;[<mark style="color:blue;">기능</mark> ](docs-2/undefined-2/)[<mark style="color:blue;">수정사항</mark>](docs-2/undefined-1.md)[&#x20;<mark style="color:blue;">부정 이용 신고</mark>](broken-reference)

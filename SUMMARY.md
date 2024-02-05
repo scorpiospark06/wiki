@@ -4,10 +4,7 @@
 
 ## 시작하기 <a href="#docs" id="docs"></a>
 
-* [도움말](docs-1/undefined/README.md)
-  * [서버에 접속하기](docs-1/undefined/server.md)
 * [이용 규칙](docs-1/rules.md)
-* [상점 규칙](docs-1/undefined-1.md)
 
 ## 알아보기 <a href="#docs" id="docs"></a>
 
@@ -19,10 +16,6 @@
 ## 더 알아보기 <a href="#docs" id="docs"></a>
 
 * [서버 정보](docs-3/serverinfo.md)
-
-## 문의하기 <a href="#docs" id="docs"></a>
-
-* [부정 이용 신고](docs-4/reportabuse.md)
 
 ## 바로가기 <a href="#docs" id="docs"></a>
 
