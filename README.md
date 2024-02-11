@@ -1,6 +1,6 @@
-# RE:Vanilla
+# I7Z server
 
-RE:Vanilla 위키에 오신 것을 환영합니다!\
+I7Z server 위키에 오신 것을 환영합니다!\
 어디서부터 시작해야 할지 모르겠나요? [<mark style="color:blue;">도움말</mark>](https://wiki.revanilla.site/\~/changes/B8ahcG109zB27V1PUmJA/team/undefined)을 확인해보세요!\
 \
 \

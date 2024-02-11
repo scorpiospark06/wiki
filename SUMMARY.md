@@ -1,6 +1,6 @@
 # Table of contents
 
-* [RE:Vanilla](README.md)
+* [I7Z server](README.md)
 
 ## 시작하기 <a href="#docs" id="docs"></a>
 
