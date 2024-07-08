@@ -20,10 +20,10 @@
 
 ## 바로가기 <a href="#docs" id="docs"></a>
 
-* [세계 지도](https://map.revanilla.site/)
+* [세계 지도](https://map.i7zserver.site/)
 * [디스코드 서버](https://discord.gg/38rbWNquaK)
-* [마인리스트](https://minelist.kr/servers/revanilla.site)
-* [마인페이지](https://mine.page/server/revanilla.site)
+* [마인리스트](https://minelist.kr/servers/i7zserver.site)
+* [마인페이지](https://mine.page/server/i7zserver.site)
 
 ## 도구 <a href="#docs" id="docs"></a>
 
