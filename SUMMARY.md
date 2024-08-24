@@ -5,7 +5,6 @@
 ## 시작하기 <a href="#docs" id="docs"></a>
 
 * [이용 규칙](docs-1/rules.md)
-* [엔드상점 규칙](docs/undefined.md)
 
 ## 알아보기 <a href="#docs" id="docs"></a>
 

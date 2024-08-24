@@ -10,4 +10,4 @@ I7Z server 위키에 오신 것을 환영합니다!
 운영진\
 총관리자:<mark style="color:green;">**\_I7Z\_**</mark>\
 관리자:<mark style="color:orange;">**EchoMax, \_Luck\_U\_, Fleuve\_\_, PoMaD,**</mark>** **<mark style="color:orange;">**Repre72**</mark>\
-[<mark style="color:blue;">이용 규칙</mark> ](docs-1/rules.md) [<mark style="color:blue;">엔드상점 규칙</mark>](docs/undefined.md) [<mark style="color:blue;">게임 설정</mark>](docs-2/undefined.md) [<mark style="color:blue;">기능</mark> ](docs-2/undefined-2/)[<mark style="color:blue;">수정사항</mark>](docs-2/undefined-1.md)
+[<mark style="color:blue;">이용 규칙</mark> ](docs-1/rules.md) [<mark style="color:blue;">엔드상점 규칙</mark>](broken-reference) [<mark style="color:blue;">게임 설정</mark>](docs-2/undefined.md) [<mark style="color:blue;">기능</mark> ](docs-2/undefined-2/)[<mark style="color:blue;">수정사항</mark>](docs-2/undefined-1.md)
