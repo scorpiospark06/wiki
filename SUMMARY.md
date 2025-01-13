@@ -1,6 +1,6 @@
 # Table of contents
 
-* [I7Z server](README.md)
+* [Luna 서버](README.md)
 
 ## 시작하기 <a href="#docs" id="docs"></a>
 
