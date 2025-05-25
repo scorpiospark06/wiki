@@ -8,9 +8,9 @@
 
 ## 알아보기 <a href="#docs" id="docs"></a>
 
-* [게임 설정](docs-2/undefined.md)
+* [게임 설정](docs-1/settings.md)
 * [수정사항](docs-2/undefined-1.md)
-* [기능](docs-1/undefined-2.md)
+* [기능](docs-1/features.md)
 
 ## 바로가기 <a href="#docs" id="docs"></a>
 
