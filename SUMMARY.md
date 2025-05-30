@@ -10,7 +10,8 @@
 
 * [게임 설정](docs-1/settings.md)
 * [수정사항](docs-2/undefined-1.md)
-* [기능](docs-1/features.md)
+* [기능](docs-1/features/README.md)
+  * [지역보호](docs-1/features/undefined.md)
 
 ## 바로가기 <a href="#docs" id="docs"></a>
 
