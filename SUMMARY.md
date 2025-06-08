@@ -1,17 +1,19 @@
 # Table of contents
 
+## 둘러보기 <a href="#main" id="main"></a>
+
 * [RE: Vanilla](README.md)
 
-## 시작하기 <a href="#docs" id="docs"></a>
+## 시작하기 <a href="#start" id="start"></a>
 
-* [이용 규칙](docs-1/rules.md)
+* [이용 규칙](start/rules.md)
 
-## 알아보기 <a href="#docs" id="docs"></a>
+## 알아보기 <a href="#server" id="server"></a>
 
-* [게임 설정](docs-1/settings.md)
-* [수정사항](docs-2/undefined-1.md)
-* [기능](docs-1/features/README.md)
-  * [지역보호](docs-1/features/undefined.md)
+* [게임 설정](server/settings.md)
+* [수정사항](server/undefined-1.md)
+* [기능](server/features/README.md)
+  * [지역보호](server/features/undefined.md)
 
 ## 바로가기 <a href="#docs" id="docs"></a>
 
